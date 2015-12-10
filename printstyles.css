@@ -1,0 +1,22 @@
+nav, header{
+  display: none;
+}
+@page{
+  size: 8.5in 11in;
+  margin:.5in;
+}
+body{
+  color:black;
+  background-color: white;
+  background-image: none;
+  font-size: 12pt;
+  font-family: "Arial", Arial, sans-serif;
+  line-height: 120%;
+}
+a{
+  text-decoration: underline;
+  color:blue;
+}
+img{
+  display:none;
+}
