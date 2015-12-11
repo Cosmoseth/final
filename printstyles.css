@@ -1,4 +1,4 @@
-nav, header{
+nav, header, #adspace1{
   display: none;
 }
 @page{
@@ -15,8 +15,8 @@ body{
 }
 a{
   text-decoration: underline;
-  color:blue;
+  color:black;
 }
 img{
-  display:none;
+filter: grayscale(1);
 }
